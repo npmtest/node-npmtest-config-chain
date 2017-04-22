@@ -1,4 +1,7 @@
-# test coverage for  [config-chain (v1.1.11)](http://github.com/dominictarr/config-chain)  [![npm package](https://img.shields.io/npm/v/npmtest-config-chain.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-config-chain) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-config-chain.svg)](https://travis-ci.org/npmtest/node-npmtest-config-chain)
+# npmtest-config-chain
+
+#### basic test-coverage for  [config-chain (v1.1.11)](http://github.com/dominictarr/config-chain)  [![npm package](https://img.shields.io/npm/v/npmtest-config-chain.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-config-chain) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-config-chain.svg)](https://travis-ci.org/npmtest/node-npmtest-config-chain)
+
 #### HANDLE CONFIGURATION ONCE AND FOR ALL
 
 [![NPM](https://nodei.co/npm/config-chain.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/config-chain)
@@ -77,7 +80,8 @@
     "scripts": {
         "test": "tap test/"
     },
-    "version": "1.1.11"
+    "version": "1.1.11",
+    "bin": {}
 }
 ```
 
